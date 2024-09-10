@@ -5,18 +5,19 @@ Using the Toulmin method for creating logically sound argument and the Minto pri
 The contents will be as follows:
 
 ## Introduction:
+
 Situation - Complication - Question - Answer structure.
 
-Situation: describe the context or background
+- Situation: describe the context or background
 
-Complication what is there in the situation that causes a problem or a challenge.
+- Complication what is there in the situation that causes a problem or a challenge.
 
-Question: What question does arise from the complication.
+- Question: What question does arise from the complication.
 
-Answer: what seems to be a plausible answer. Using the Qualifier and the data available to us formulate the thesis statement.
+- Answer: what seems to be a plausible answer. Using the Qualifier and the data available to us formulate the thesis statement.
 
 
-content of each body paragraph.
+## Content of each body paragraph.
 
 Mainpoint (Supporting point one):
 
@@ -32,7 +33,7 @@ Mainpoint (Supporting point one):
 
 - Qualifier (acknowledgement of the valid limitations)
 
-Conclusion:
+## Conclusion:
 
 - Reaffirm the thesis 
 
