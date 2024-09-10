@@ -9,7 +9,7 @@ Situation - Complication - Question - Answer structure.
 
 Situation: describe the context or background
 
-Complication what ther in the situation that causes a problem or a challenge.
+Complication what is there in the situation that causes a problem or a challenge.
 
 Question: What question does arise from the complication.
 
