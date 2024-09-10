@@ -9,11 +9,11 @@ Situation - Complication - Question - Answer structure.
 
 Situation: describe the context or background
 
-Complication what is that causes a problem or a challenge.
+Complication what ther in the situation that causes a problem or a challenge.
 
 Question: What question does arise from the complication.
 
-Answer: what seems to be a plausible answer. Using the Qualifier and the data available to us.
+Answer: what seems to be a plausible answer. Using the Qualifier and the data available to us formulate the thesis statement.
 
 
 content of each body paragraph.
